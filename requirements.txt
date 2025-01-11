@@ -39,6 +39,6 @@ typing-extensions>=4.3.0,<4.6.0
 tzdata==2024.2
 urllib3==2.3.0
 watchdog==6.0.0
-tensorflow==2.11.0
+tensorflow==2.13.0
 distutils
 python3-distutils
